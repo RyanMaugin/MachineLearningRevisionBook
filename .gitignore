@@ -2,3 +2,5 @@
 .DS_Store
 K-NearestNeighbour/data/
 .vscode/
+SupportVectorMachines/
+LogisticRegression/
