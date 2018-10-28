@@ -4,3 +4,5 @@ K-NearestNeighbour/data/
 .vscode/
 SupportVectorMachines/
 LogisticRegression/
+ComputationalGraph/
+RandomForest/
